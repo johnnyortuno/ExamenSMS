@@ -1,0 +1,9 @@
+C:\Users\jonit\source\repos\ExamenSMS\Infraestructure\bin\Debug\netcoreapp3.1\Infraestructure.deps.json
+C:\Users\jonit\source\repos\ExamenSMS\Infraestructure\bin\Debug\netcoreapp3.1\Infraestructure.dll
+C:\Users\jonit\source\repos\ExamenSMS\Infraestructure\bin\Debug\netcoreapp3.1\Infraestructure.pdb
+C:\Users\jonit\source\repos\ExamenSMS\Infraestructure\obj\Debug\netcoreapp3.1\Infraestructure.AssemblyInfoInputs.cache
+C:\Users\jonit\source\repos\ExamenSMS\Infraestructure\obj\Debug\netcoreapp3.1\Infraestructure.AssemblyInfo.cs
+C:\Users\jonit\source\repos\ExamenSMS\Infraestructure\obj\Debug\netcoreapp3.1\Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\jonit\source\repos\ExamenSMS\Infraestructure\obj\Debug\netcoreapp3.1\Infraestructure.dll
+C:\Users\jonit\source\repos\ExamenSMS\Infraestructure\obj\Debug\netcoreapp3.1\Infraestructure.pdb
+C:\Users\jonit\source\repos\ExamenSMS\Infraestructure\obj\Debug\netcoreapp3.1\Infraestructure.csprojAssemblyReference.cache

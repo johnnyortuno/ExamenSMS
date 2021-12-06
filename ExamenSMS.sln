@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "API\API.csproj", "{53CB4A05-0B6D-4658-A86C-2E74756F418B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{B9A58BDB-7B78-4CF8-B151-6C8C008BA5F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infraestructure", "Infraestructure\Infraestructure.csproj", "{91FAEF60-D159-4FB4-99FB-93B0AC48772A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53CB4A05-0B6D-4658-A86C-2E74756F418B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53CB4A05-0B6D-4658-A86C-2E74756F418B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53CB4A05-0B6D-4658-A86C-2E74756F418B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53CB4A05-0B6D-4658-A86C-2E74756F418B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9A58BDB-7B78-4CF8-B151-6C8C008BA5F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9A58BDB-7B78-4CF8-B151-6C8C008BA5F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9A58BDB-7B78-4CF8-B151-6C8C008BA5F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9A58BDB-7B78-4CF8-B151-6C8C008BA5F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91FAEF60-D159-4FB4-99FB-93B0AC48772A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91FAEF60-D159-4FB4-99FB-93B0AC48772A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91FAEF60-D159-4FB4-99FB-93B0AC48772A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91FAEF60-D159-4FB4-99FB-93B0AC48772A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E401A16-74EE-47BD-9872-9D6BEBA5F80E}
+	EndGlobalSection
+EndGlobal
